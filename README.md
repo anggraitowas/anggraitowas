@@ -1,5 +1,5 @@
 ## Hello there, I'm Anggra👋
-<--img src="https://komarev.com/ghpvc/?username=anggraitowas&style=flat-square&color=grey" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=anggraitowas&style=flat-square&color=grey" alt=""/>
 <div id="header" align="center">
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -26,7 +26,7 @@
 - 😄 Pronouns: Anggra
 - ⚡ Fun fact: I'm a 🍫lovers
 
-### 🔪: Languages and Tools :
+### 🔪 Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"title="Laravel" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"width="40" height="40"/>&nbsp;
@@ -38,10 +38,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"title="PostgreSQL" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"title="Google Cloud" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"title="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"title="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"title="Figma" width="40" height="40"/>&nbsp;
   </div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggraitowas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggraitowas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🎨 Blog Posts : :construction:
