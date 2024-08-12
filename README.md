@@ -11,7 +11,7 @@
   <a href="youtube.com/anggraitowas">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="instagram.com/anggraitowas">
+  <a href="www.instagram.com/anggraitowas">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
