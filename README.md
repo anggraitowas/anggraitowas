@@ -1,4 +1,4 @@
-## Hello there, I'm Anggra👋
+## Hello there, I'm Anggraito Waspada👋
 <img src="https://komarev.com/ghpvc/?username=anggraitowas&style=flat-square&color=grey" alt=""/>
 <div id="header" align="center">
 
@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently seeking for a job with Cloud background.
 - 🌱 I’m currently learning and exploring about Cloud Computing, Back-End Development, and Mobile Development.
-- :zap: In my free time, I learn modules on Dicoding, Coursera, GCSB and read tech articles.
+- :zap: In my free time, I learn modules on Dicoding, Coursera, Qwikilabs and read tech articles.
 - 💬 Ask me anything about technologies such as Cloud, PC and Smartphones.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anggraitowas)[![Gmail Badge](https://img.shields.io/badge/--red?style=flat&logo=Gmail&logoColor=white)](mailto:anggraitowas@gmail.com)
 - 😄 Pronouns: Anggra
