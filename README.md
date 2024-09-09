@@ -19,7 +19,7 @@
 </br>
 
 - 🔭 I’m currently seeking for a job with Cloud background.
-- 🌱 I’m currently learning and exploring about Cloud Computing, Back-End Development, and Mobile Development.
+- 🌱 I’m currently learning and exploring about Cloud Computing, DevOps, and Back-End Development.
 - :zap: In my free time, I learn modules on Dicoding, Coursera, Qwikilabs and read tech articles.
 - 💬 Ask me anything about technologies such as Cloud, PC and Smartphones.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anggraitowas)[![Gmail Badge](https://img.shields.io/badge/--red?style=flat&logo=Gmail&logoColor=white)](mailto:anggraitowas@gmail.com)
