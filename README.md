@@ -22,7 +22,6 @@
 - 🌱 I’m currently learning and exploring about Cloud Computing, DevOps, and Back-End Development.
 - :zap: In my free time, I learn modules on Dicoding, Coursera, Qwikilabs and read tech articles.
 - 💬 Ask me anything about technologies such as Cloud, PC and Smartphones.
-- 😄 Pronouns: Anggra
 - ⚡ Fun fact: I'm a 🍫lovers
 
 ### 🔪 Languages and Tools :
