@@ -18,14 +18,15 @@
 </div>
 </br>
 
-- 🔭 I’m currently seeking for a job with Cloud background.
-- 🌱 I’m currently learning and exploring about Cloud Computing, DevOps, and Back-End Development.
+- 🔭 I’m currently seeking for a job with Web and Cloud related.
+- 🌱 I’m currently learning and exploring about Cloud Computing, Fullstack Web Development and DevOps.
 - :zap: In my free time, I learn modules on Dicoding, Coursera, Qwikilabs and read tech articles.
 - 💬 Ask me anything about technologies such as Cloud, PC and Smartphones.
-- ⚡ Fun fact: I'm a 🍫lovers
 
 ### 🔪 Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="DBeaver" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="DBeaver" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"title="PostgreSQL" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
@@ -36,8 +37,3 @@
    </div>
   
 ### 🎨 Blog Posts : :construction:
-
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggraitowas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
