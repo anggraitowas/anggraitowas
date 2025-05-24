@@ -18,7 +18,7 @@
 </div>
 </br>
 
-- 🔭 I’m currently seeking for a job with Web and Cloud related.
+- 🔭 I’m currently seeking for Web or Cloud related.
 - 🌱 I’m currently learning and exploring about Cloud Computing, Fullstack Web Development and DevOps.
 - :zap: In my free time, I learn modules on Dicoding, Coursera, Qwikilabs and read tech articles.
 - 💬 Ask me anything about technologies such as Cloud, PC and Smartphones.
