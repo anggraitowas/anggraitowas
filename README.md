@@ -15,7 +15,7 @@
 </br>
 
 - 🔭 Currently seeking opportunities in Cloud Engineering, System Administration, DevOps Engineering, and Cloud Solutions Architecture.
-- 🌱 Intersted and exploring in Cloud Infrastructure, Cloud Architecture, Linux Administration, Networking, IaC, CI/CD, and Automation.
+- 🌱 Interested and exploring in Cloud Infrastructure, Cloud Architecture, Linux Administration, Networking, IaC, CI/CD, and Automation.
 - :zap: Continuously learning through hands on lab, online courses and exploring technical articles.
 
 
